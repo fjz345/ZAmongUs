@@ -1,5 +1,0 @@
-[General/Info] 19:34:25 Discord     Discord.Net v2.2.0 (API v6)
-[General/Info] 19:34:26 Gateway     Connecting
-[General/Info] 19:34:27 Gateway     Connected
-Channel set to: bot-spam
-[General/Info] 19:34:28 Gateway     Ready

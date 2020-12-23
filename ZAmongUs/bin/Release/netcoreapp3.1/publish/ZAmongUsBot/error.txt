@@ -1,8 +1,0 @@
-[General/Info] 16:04:20 Discord     Discord.Net v2.2.0 (API v6)
-[General/Info] 16:04:21 Gateway     Connecting
-[General/Info] 16:04:21 Gateway     Connected
-Channel set to: bot-spam
-Last Signup set to: 769199432691744768
-[General/Info] 16:04:22 Gateway     Ready
-[General/Warning] 16:04:40 Gateway     A ReactionAdded handler is blocking the gateway task.
-[General/Warning] 16:04:46 Gateway     A ReactionRemoved handler is blocking the gateway task.

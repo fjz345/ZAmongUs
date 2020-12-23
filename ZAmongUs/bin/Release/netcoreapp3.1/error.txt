@@ -1,5 +1,0 @@
-[General/Info] 18:54:56 Discord     Discord.Net v2.2.0 (API v6)
-[General/Info] 18:54:57 Gateway     Connecting
-[General/Info] 18:54:58 Gateway     Connected
-Channel set to: sign-up
-[General/Info] 18:54:58 Gateway     Ready
