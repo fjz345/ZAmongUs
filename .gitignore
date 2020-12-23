@@ -1,0 +1,9 @@
+.vs
+
+ZAmongUs/bin/*
+ZAmongUs/obj/*
+
+ZAmongUs/token.txt
+ZAmongUs/error.txt
+ZAmongUs/signup.txt
+
